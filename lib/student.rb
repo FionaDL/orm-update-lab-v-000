@@ -73,7 +73,7 @@ class Student
     DB[:conn].exectute(sql,self.name, self.grade, self.id)
   end
 
-  
+
 
 
 
